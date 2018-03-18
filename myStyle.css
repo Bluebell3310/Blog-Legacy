@@ -1,0 +1,28 @@
+
+body{
+  background-image: url("BG_Tree.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment:fixed;
+}
+
+q{
+  font-style: italic;
+}
+
+.logo{
+  height:50px;
+  width:auto;
+}
+
+.content{
+  weight: 100%;
+  height: auto;
+  font-family: "Microsoft JhengHei", Arial, sans-serif;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-top:3%;
+  margin-left: 8%;
+  margin-right: 8%;
+  padding: 2%;
+}
