@@ -6,10 +6,10 @@ url: ''
 resume_site: 
 github: https://github.com/bluebell3310/
 baseurl: ""
-description: 一個大學生的個人部落格
-meta_description: bluebell;你必須更加努力，才能看起來更加費力
-motto: Make lis great again!
-banner: 一個大學生的個人部落格
+description: 一個大學生的部落格
+meta_description: bluebell;生活;程式設計;圖書資訊;突發奇想;音樂
+motto: 你必須更加努力，才能看起來更加費力
+banner: 只要睡飽，都是好天氣
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -18,9 +18,3 @@ paginate: 10
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 github_username: bluebell3310
-
-# Build settings
-markdown: kramdown
-
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
-
