@@ -11,7 +11,8 @@ tag: 分享與感想
 
 
 # 前言
-歌曲網址: https://www.youtube.com/watch?v=JBmzU_qn_G8
+歌曲網址: [https://www.youtube.com/watch?v=JBmzU_qn_G8](https://www.youtube.com/watch?v=JBmzU_qn_G8)  
+
 It's a small world這首歌，是King gnu最近出的歌曲，詞曲皆出自團員之一的常田大希。  
 
 會認識King gnu是因為一部動漫「banana fish」的片尾曲，那首歌也是king gnu唱的，叫做prayer X，也是十分好聽。  
