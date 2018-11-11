@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  King Gnu - It's a small world
-date:   2018-5-17 12:00:00 +0800
+date:   2018-11-11 10:30:00 +0800
 categories: 音樂
 tag: 分享與感想
 ---
@@ -12,6 +12,8 @@ tag: 分享與感想
 
 # 前言
 歌曲網址: [https://www.youtube.com/watch?v=JBmzU_qn_G8](https://www.youtube.com/watch?v=JBmzU_qn_G8)  
+
+既然今天是1111光棍節，就來講一下這首描寫兩人世界的可愛歌曲好了，哈哈。
 
 It's a small world這首歌，是King gnu最近出的歌曲，詞曲皆出自團員之一的常田大希。  
 
@@ -32,7 +34,7 @@ MV的部分，以皮膚發白長相怪異的兩人為主角，透過怪異的舞
 
 # 歌詞
 附上網路上找的日、英歌詞，給各位看看。  
-以下歌詞轉載自: https://lyricstranslate.com/en/its-small-world-its-small-world.html
+以下歌詞轉載自: [https://lyricstranslate.com/en/its-small-world-its-small-world.html](https://lyricstranslate.com/en/its-small-world-its-small-world.html)
 
 ## 日文
 ダンスなんて上手く踊れないけれど
