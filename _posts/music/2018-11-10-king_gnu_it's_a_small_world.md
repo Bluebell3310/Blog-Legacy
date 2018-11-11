@@ -37,76 +37,76 @@ MV的部分，以皮膚發白長相怪異的兩人為主角，透過怪異的舞
 以下歌詞轉載自: [https://lyricstranslate.com/en/its-small-world-its-small-world.html](https://lyricstranslate.com/en/its-small-world-its-small-world.html)
 
 ## 日文
-ダンスなんて上手く踊れないけれど
-今だけは踊りたい気分
-イケてるステップなんて刻めないけれど
-誰も見ちゃいないし気にしないで
+ダンスなんて上手く踊れないけれど  
+今だけは踊りたい気分  
+イケてるステップなんて刻めないけれど  
+誰も見ちゃいないし気にしないで  
  
-皆寝ちゃったよ
-今夜、世界は僕らのもの
+皆寝ちゃったよ  
+今夜、世界は僕らのもの  
  
-明日の事なんてわからないけれど
-人生は止まらないし
-夏の終わりの熱帯夜に二人
-夜に眩しいほどに煌めいて
+明日の事なんてわからないけれど  
+人生は止まらないし  
+夏の終わりの熱帯夜に二人  
+夜に眩しいほどに煌めいて  
  
-皆寝ちゃったよ
-今夜、世界は僕らのもの
+皆寝ちゃったよ  
+今夜、世界は僕らのもの  
  
-君の世界に僕も生きられるなら
-それは素敵な事でしょう？
-(子供みたいに戯れあってさ)
-大人になんてなりそびれたままでいいの
-勝手に世界が回っても
-(それもいい、いっそ君だけでいい)
+君の世界に僕も生きられるなら  
+それは素敵な事でしょう？  
+(子供みたいに戯れあってさ)  
+大人になんてなりそびれたままでいいの  
+勝手に世界が回っても  
+(それもいい、いっそ君だけでいい)  
  
-息を潜めろ街が寝静まるまで
-Shining Shining Shining Shining
-恐れずにこの夜に飛び込むの
-Shining Shining Shining Shining
+息を潜めろ街が寝静まるまで  
+Shining Shining Shining Shining  
+恐れずにこの夜に飛び込むの  
+Shining Shining Shining Shining  
  
-君の世界に僕も生きられるなら
-それは素敵な事でしょう？
-(子供みたいに戯れあってさ)
-大人になんてなりそびれたままでいいの
-勝手に世界が回っても
-(それもいい、いっそ君だけでいい)
+君の世界に僕も生きられるなら  
+それは素敵な事でしょう？  
+(子供みたいに戯れあってさ)  
+大人になんてなりそびれたままでいいの  
+勝手に世界が回っても  
+(それもいい、いっそ君だけでいい)  
 
 
 ## 英文
 
-Even though I'm bad at dancing,
-Just now I have a mood for it.
-Though I can't perform any cool moves,
-Nobody is looking, that's alright.
+Even though I'm bad at dancing,  
+Just now I have a mood for it.  
+Though I can't perform any cool moves,  
+Nobody is looking, that's alright.  
  
-Everyone's fallen asleep.
-Tonight the world is ours.
+Everyone's fallen asleep.  
+Tonight the world is ours.  
  
-Though I have no clue about tomorrow,
-But our life goes on.
-It's you and me on a hot summer night
-Shining dazzlingly.
+Though I have no clue about tomorrow,  
+But our life goes on.  
+It's you and me on a hot summer night  
+Shining dazzlingly.  
  
-Everyone's fallen asleep.
-Tonight the world is ours.
+Everyone's fallen asleep.  
+Tonight the world is ours.  
  
-If I could exist in your world,
-Wouldn't it be wonderful?
-(Flirting like a child)
-And it's fine not to be an adult
-Even if this world is spinning on its own.
-(That's fine, just be yourself)
+If I could exist in your world,  
+Wouldn't it be wonderful?  
+(Flirting like a child)  
+And it's fine not to be an adult  
+Even if this world is spinning on its own.  
+(That's fine, just be yourself)  
  
-Hold your breath until the town falls asleep
-Shining Shining Shining Shining
-Don't be afraid and jump into the night
-Shining Shining Shining Shining
+Hold your breath until the town falls asleep  
+Shining Shining Shining Shining  
+Don't be afraid and jump into the night  
+Shining Shining Shining Shining  
  
-If I could exist in your world,
-Wouldn't it be wonderful?
-(Flirting like a child)
-And it's fine not to be an adult
-Even if this world is spinning on its own.
-(That's fine, just be yourself)
+If I could exist in your world,  
+Wouldn't it be wonderful?  
+(Flirting like a child)  
+And it's fine not to be an adult  
+Even if this world is spinning on its own.  
+(That's fine, just be yourself)  
 
